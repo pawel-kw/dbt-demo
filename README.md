@@ -83,20 +83,19 @@ dbt-banking-challenge/
 │   ├── customers.csv            # Customer master data
 │   ├── accounts.csv             # Account information
 │   └── transactions.csv         # Transaction records
-├── bank_dbt/                    # dbt project folder
-│   ├── dbt_project.yml          # dbt project configuration
-│   ├── profiles.yml             # Database connection (DuckDB)
-│   ├── seeds/                   # ⭐ Copy CSVs here
-│   │   └── .gitkeep
-│   ├── models/
-│   │   ├── staging/             # ⭐ Create staging models here
-│   │   │   └── .gitkeep
-│   │   └── marts/               # ⭐ Create mart models here
-│   │       └── .gitkeep
-│   └── snapshots/               # ⭐ Bonus: SCD snapshots here
-│       └── .gitkeep
-└── solution/                    # Reference solution (DO NOT PEEK!)
-    └── ...
+└── bank_dbt/                    # dbt project folder
+    ├── dbt_project.yml          # dbt project configuration
+    ├── profiles.yml             # Database connection (DuckDB)
+    ├── seeds/                   # ⭐ Copy CSVs here
+    │   └── .gitkeep
+    ├── models/
+    │   ├── staging/             # ⭐ Create staging models here
+    │   │   └── .gitkeep
+    │   └── marts/               # ⭐ Create mart models here
+    │       └── .gitkeep
+    └── snapshots/               # ⭐ Bonus: SCD snapshots here
+        └── .gitkeep
+
 ```
 
 ---
