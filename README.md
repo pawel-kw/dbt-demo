@@ -1,6 +1,6 @@
-# dbt Banking Data Pipeline - Take-Home Challenge
+# dbt Data Pipeline - Take-Home Challenge
 
-## Position: Data Engineer - Banking Sector
+## Position: Data Engineer
 
 ### Challenge Duration: 2-4 hours
 
@@ -40,7 +40,10 @@ pip install uv
 
 ## Quick Start
 
-### 1. Clone/Download this repository
+### 1. Clone/Download/Fork this repository
+
+You can choose to just clone or download this repository content to your local machine directly or fork it to your own account to later share the 
+solution. In any case, once you have the code locally:
 
 ```bash
 cd dbt-banking-challenge
@@ -201,7 +204,7 @@ Your submission will be evaluated on:
 
 Please submit:
 
-1. Your completed `bank_dbt/` project folder
+1. Your completed `bank_dbt/` project folder (you can share it as a link if you fork the repository)
 2. A screenshot of your DAG from dbt docs
 3. A brief write-up (1-2 paragraphs) explaining:
    - Any assumptions you made
@@ -212,10 +215,10 @@ Please submit:
 
 ## Questions?
 
-If you have questions about the requirements, please email [interviewer@bank.com].
+Don't hesitate to contact us if you have questions about the requirements.
 
-**Note**: This is a take-home challenge. Please complete it independently without external help.
+**Note**: This is a take-home challenge. Please complete it independently without help from other people.
 
 ---
 
-Good luck! 🚀
+Good luck!
