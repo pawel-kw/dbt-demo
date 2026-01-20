@@ -46,7 +46,7 @@ You can choose to just clone or download this repository content to your local m
 solution. In any case, once you have the code locally:
 
 ```bash
-cd dbt-banking-challenge
+cd dbt-demo
 ```
 
 ### 2. Install dependencies (uv creates virtualenv automatically)
@@ -75,7 +75,7 @@ You should see "All checks passed!" if everything is configured correctly.
 ## Project Structure
 
 ```
-dbt-banking-challenge/
+dbt-demo/
 ├── README.md                    # This file
 ├── pyproject.toml               # Python dependencies (uv)
 ├── target_model_spec.md         # ⭐ SOURCE-TARGET MAPPING SPEC
