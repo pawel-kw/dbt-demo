@@ -1,0 +1,6 @@
+# Create staging models here:
+# - stg_customers.sql
+# - stg_accounts.sql
+# - stg_transactions.sql
+# - _sources.yml (source definitions)
+# - schema.yml (tests and documentation)

@@ -1,0 +1,21 @@
+# dbt
+target/
+dbt_packages/
+logs/
+.user.yml
+*.duckdb
+*.duckdb.wal
+
+# Python / uv
+.venv/
+__pycache__/
+*.pyc
+.python-version
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+

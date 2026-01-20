@@ -1,0 +1,3 @@
+# Create mart models here:
+# - customer_monthly_summary.sql
+# - schema.yml (tests and documentation)

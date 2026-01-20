@@ -1,0 +1,13 @@
+[project]
+name = "dbt-banking-challenge"
+version = "1.0.0"
+description = "dbt Banking Data Pipeline - Take-Home Challenge"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = [
+    "dbt-core==1.10.0",
+    "dbt-duckdb==1.10.0",
+]
+
+[dependency-groups]
+dev = []
