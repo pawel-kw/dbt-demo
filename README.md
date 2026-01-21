@@ -18,7 +18,6 @@ You will transform raw banking transaction data into a reporting-ready data prod
 
 Before starting, ensure you have the following installed:
 
-- **Python 3.9+** 
 - **uv** (fast Python package manager) - [Install uv](https://docs.astral.sh/uv/getting-started/installation/)
 
 That's it! This project uses **DuckDB** as the database, which requires no separate installation.
